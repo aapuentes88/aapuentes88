@@ -34,9 +34,6 @@ En los últimos proyectos he trabajado con **Vuestic UI**, **Stencil.js** y desa
 
 [![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=aapuentes88&theme=dracula)](https://github.com/aapuentes88)
 
-![Commits DaraMex.Web](https://img.shields.io/github/commit-activity/m/Dara-Services/DaraMex.Web?label=Commits%20DaraMex.Web)
-![Commits DaraMex.Panel](https://img.shields.io/github/commit-activity/m/Dara-Services/DaraMex.Panel?label=Commits%20DaraMex.Panel)
-
 ---
 
 ## 🌱 Actualmente aprendiendo
