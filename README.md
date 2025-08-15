@@ -29,10 +29,8 @@ En los últimos proyectos he trabajado con **Vuestic UI**, **Stencil.js** y desa
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=aapuentes88&show_icons=true&theme=tokyonight)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=aapuentes88&layout=compact&theme=tokyonight)
 
-[![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=aapuentes88&theme=dracula)](https://github.com/aapuentes88)
 
 ---
 
