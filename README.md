@@ -54,8 +54,7 @@ En los últimos proyectos he trabajado con **Vuestic UI**, **Stencil.js** y desa
 ---
 
 ## 📫 Cómo contactarme
-- 📧 **Email:** tu-email@dominio.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- 🐦 [Twitter/X](https://twitter.com/tuusuario)
+- 📧 **Email:** albaristides@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/alberto-puente-gonzalez-26092b158/)
 
 ---
